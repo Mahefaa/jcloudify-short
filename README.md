@@ -1,1 +1,0 @@
-# jcloudify-starter-template
